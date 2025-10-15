@@ -1,4 +1,3 @@
-# P-ginas-HTML---M-dia
 # Projeto: Página de Mídia em HTML
 
 Uma página web simples desenvolvida como parte dos meus estudos iniciais em HTML5. O objetivo principal foi praticar a incorporação e o controle de diferentes tipos de mídia, como imagens e vídeos, além de reforçar a estrutura básica de um documento HTML.
