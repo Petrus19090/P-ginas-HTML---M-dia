@@ -1,0 +1,20 @@
+Leia-me (Português)
+# Projeto: Página de Mídia em HTML
+
+Uma página web simples desenvolvida como parte dos meus estudos iniciais em HTML5. O objetivo principal foi praticar a incorporação e o controle de diferentes tipos de mídia, como imagens e vídeos, além de reforçar a estrutura básica de um documento HTML.
+
+## 🚀 Tecnologias Utilizadas
+
+* HTML5
+
+## 📚 O que eu aprendi
+
+Com este projeto, pratiquei e reforcei os seguintes conceitos:
+
+* **Incorporação de Mídia:** Uso das tags `<img>` e `<video>` para exibir mídias a partir de arquivos locais.
+* **Estruturação de Listas:** Implementação de listas ordenadas (`<ol>`), desordenadas (`<ul>`) e de definição (`<dl>`).
+* **Criação de Hyperlinks:** Uso da tag `<a>` para criar links para páginas externas, utilizando o atributo `target="_blank"` para abrir em uma nova aba.
+
+
+
+
